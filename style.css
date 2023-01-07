@@ -13,8 +13,8 @@ body{
     margin: 30px;
     
     
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-radius: 15px;
+    border-radius: 15px;
 }
 .content{
     padding: 30px;
